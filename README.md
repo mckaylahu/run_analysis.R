@@ -1,8 +1,5 @@
-# run_analysis.R
+# README
 The project of Getting and Cleaning Data
-
-run_analysis.R
-
 
 The dataset includes the following files:
 =========================================
